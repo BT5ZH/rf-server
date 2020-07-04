@@ -1,0 +1,514 @@
+{
+  "chapters": [
+    {
+      "editFlag": false,
+      "chapterIndex": 0,
+      "chapterName": "课程概述",
+      "chapterDuration": 1961.0666660000002,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 1,
+          "lessonName": "课程说明",
+          "lessonParentDuration": 0,
+          "resources": ["5ee6e33d4acef72b18ccc0a9"],
+
+          "lessonDuration": 619.566666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 2,
+          "lessonName": "内容概述",
+          "lessonParentDuration": 0,
+          "resources": ["5ee6e8da4acef72b18ccc0ed"],
+
+          "lessonDuration": 1341.5
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "Spring精要",
+      "chapterDuration": 5528.1106756,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 3,
+          "lessonName": "Sping项目创建",
+          "lessonParentDuration": 1,
+          "resources": ["5ee6e4c54acef72b18ccc0b7"],
+
+          "lessonDuration": 890.733333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 4,
+          "lessonName": "松紧耦合问题",
+          "lessonParentDuration": 1,
+          "resources": ["5ee6e6384acef72b18ccc0d1"],
+
+          "lessonDuration": 1603.633333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 5,
+          "lessonName": "Sping核心逻辑",
+          "lessonParentDuration": 1,
+          "resources": ["5ee6e5bb4acef72b18ccc0c9"],
+
+          "lessonDuration": 1161.8666666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 6,
+          "lessonName": "问题解答一",
+          "lessonParentDuration": 1,
+          "resources": ["5ee6e8364acef72b18ccc0e7"],
+
+          "lessonDuration": 486.7
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 7,
+          "lessonName": "创建BEAN和绑定依赖",
+          "lessonParentDuration": 1,
+          "resources": ["5ee6e91f4acef72b18ccc0f5"],
+
+          "lessonDuration": 678.177343
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 8,
+          "lessonName": "小结",
+          "lessonParentDuration": 1,
+          "resources": ["5ee6e8cb4acef72b18ccc0eb"],
+
+          "lessonDuration": 707
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "Spring之魔法注释",
+      "chapterDuration": 4842.372133,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 9,
+          "lessonName": "注释扫盲-Qualifier",
+          "lessonParentDuration": 2,
+          "resources": ["5ee6e68d4acef72b18ccc0d7"],
+
+          "lessonDuration": 910.076302
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 10,
+          "lessonName": "注释扫盲-Scope",
+          "lessonParentDuration": 2,
+          "resources": ["5ee6e4b54acef72b18ccc0b5"],
+
+          "lessonDuration": 924.336002
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 11,
+          "lessonName": "IDE扫盲-Keymap",
+          "lessonParentDuration": 2,
+          "resources": ["5ee6e1b14acef72b18ccc0a7"],
+
+          "lessonDuration": 1059.433333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 12,
+          "lessonName": "组件扫描",
+          "lessonParentDuration": 2,
+          "resources": ["5ee6e7544acef72b18ccc0db"],
+
+          "lessonDuration": 900.092838
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 13,
+          "lessonName": "加餐-日志",
+          "lessonParentDuration": 2,
+          "resources": ["5ee6e7964acef72b18ccc0df"],
+
+          "lessonDuration": 1048.433658
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "Sping深度挖掘",
+      "chapterDuration": 6087.566989,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 14,
+          "lessonName": "生命周期",
+          "lessonParentDuration": 3,
+          "resources": ["5ee6e8534acef72b18ccc0e9"],
+
+          "lessonDuration": 1400.233658
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 15,
+          "lessonName": "基础框架",
+          "lessonParentDuration": 3,
+          "resources": ["5ee6e4ea4acef72b18ccc0bb"],
+
+          "lessonDuration": 1605.866666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 16,
+          "lessonName": "XML配置",
+          "lessonParentDuration": 3,
+          "resources": ["5ee6e9594acef72b18ccc0fb"],
+
+          "lessonDuration": 1339.866666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 17,
+          "lessonName": "再聊组件扫描",
+          "lessonParentDuration": 3,
+          "resources": ["5ee6e7674acef72b18ccc0dd"],
+
+          "lessonDuration": 861.233333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 18,
+          "lessonName": "小结",
+          "lessonParentDuration": 3,
+          "resources": ["5ee6e3f54acef72b18ccc0af"],
+
+          "lessonDuration": 880.366666
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "Spring Boot",
+      "chapterDuration": 4607.400665,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 19,
+          "lessonName": "Spring Boot 特征",
+          "lessonParentDuration": 4,
+          "resources": ["5ee6e93f4acef72b18ccc0f9"],
+
+          "lessonDuration": 961.734
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 20,
+          "lessonName": "项目创建",
+          "lessonParentDuration": 4,
+          "resources": ["5ee6e8264acef72b18ccc0e5"],
+
+          "lessonDuration": 1047.166666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 21,
+          "lessonName": "Spring WEB 使用开始",
+          "lessonParentDuration": 4,
+          "resources": ["5ee6e15b05c0522ad872eda8"],
+
+          "lessonDuration": 547.5
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 22,
+          "lessonName": "自动化配置",
+          "lessonParentDuration": 4,
+          "resources": ["5ee6e45e4acef72b18ccc0b1"],
+
+          "lessonDuration": 480.433333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 23,
+          "lessonName": "MAVEN 踩坑",
+          "lessonParentDuration": 4,
+          "resources": ["5ee6e5664acef72b18ccc0c5"],
+
+          "lessonDuration": 1570.566666
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "Spring AOP 基础",
+      "chapterDuration": 6127.556377000001,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 24,
+          "lessonName": "Spring AOP概要",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e5974acef72b18ccc0c7"],
+
+          "lessonDuration": 263.966666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 25,
+          "lessonName": "AOP示例准备-1",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e49d4acef72b18ccc0b3"],
+
+          "lessonDuration": 934.033333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 26,
+          "lessonName": "AOP示例准备-2",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e5dd4acef72b18ccc0cb"],
+
+          "lessonDuration": 670.433333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 27,
+          "lessonName": "AOP示例展示",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e3a64acef72b18ccc0ab"],
+
+          "lessonDuration": 1430.533333
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 28,
+          "lessonName": "AOP相关术语及概念",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e65a4acef72b18ccc0d5"],
+
+          "lessonDuration": 698.566666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 29,
+          "lessonName": "AOP增强类型",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e90c4acef72b18ccc0f3"],
+
+          "lessonDuration": 938.366666
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 30,
+          "lessonName": "AOP要点补充-1",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e6054acef72b18ccc0cf"],
+
+          "lessonDuration": 747.5
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 31,
+          "lessonName": "AOP要点补充-2",
+          "lessonParentDuration": 5,
+          "resources": ["5ee6e5f34acef72b18ccc0cd"],
+
+          "lessonDuration": 444.15638
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "Spring与数据库交互",
+      "chapterDuration": 9085.609057,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 32,
+          "lessonName": "SpringJDBC概述",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e8ee4acef72b18ccc0ef"],
+
+          "lessonDuration": 600.388021
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 33,
+          "lessonName": "SpringJDBC概述补充",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e4da4acef72b18ccc0b9"],
+
+          "lessonDuration": 267.778005
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 34,
+          "lessonName": "SpringJDBCTemplate使用",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e5034acef72b18ccc0bd"],
+
+          "lessonDuration": 1054.167
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 35,
+          "lessonName": "SpringJDBCTemplate示例1",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e72d4acef72b18ccc0d9"],
+
+          "lessonDuration": 1303.9
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 36,
+          "lessonName": "SpringJDBCTemplate示例2",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e54b4acef72b18ccc0c3"],
+
+          "lessonDuration": 1323.107031
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 37,
+          "lessonName": "SpringJPA简介",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e5204acef72b18ccc0bf"],
+
+          "lessonDuration": 484.667
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 38,
+          "lessonName": "SpringJPA(示例)",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e92e4acef72b18ccc0f7"],
+
+          "lessonDuration": 934.134
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 39,
+          "lessonName": "SpringJPA(增删改)",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e8fc4acef72b18ccc0f1"],
+
+          "lessonDuration": 811.834
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 40,
+          "lessonName": "SpringJPA(JPQL)",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e7ca4acef72b18ccc0e3"],
+
+          "lessonDuration": 1093.3
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 41,
+          "lessonName": "SpringData&小结",
+          "lessonParentDuration": 6,
+          "resources": ["5ee6e64a4acef72b18ccc0d3"],
+
+          "lessonDuration": 1212.334
+        }
+      ]
+    },
+    {
+      "editFlag": false,
+
+      "chapterIndex": 0,
+      "chapterName": "SpringWeb",
+      "chapterDuration": 4058.21901,
+      "lessons": [
+        {
+          "editFlag": false,
+
+          "lessonIndex": 42,
+          "lessonName": "WebServlet",
+          "lessonParentDuration": 7,
+          "resources": ["5ee6e7a84acef72b18ccc0e1"],
+
+          "lessonDuration": 1881.31901
+        },
+        {
+          "editFlag": false,
+
+          "lessonIndex": 43,
+          "lessonName": "WebJsp",
+          "lessonParentDuration": 7,
+          "resources": ["5ee6e5344acef72b18ccc0c1"],
+
+          "lessonDuration": 2176.9
+        }
+      ]
+    }
+  ],
+  "announcement": "本课程，暂无公告",
+  "chapterCounter": 8,
+  "imageCover": "https://rs-learning-resourcess.s3.cn-northwest-1.amazonaws.com.cn/teaching/resourcess/2704133E/AAFDC483.png",
+  "title": "项目实训-Spring实践",
+  "price": "0.01",
+  "status": "finish",
+  "description": "  本课程以项目开发实训为目标，重点介绍项目后端框架SPRING的核心概念，原理，使用方法。\n  重点讲述：\n  1. 核心概念：依赖注入/控制反转\n  2. Spring解决的核心问题\n  3. Spring：关于注释@Component",
+  "duration": 42297.9015726,
+  "lessonCount": 43
+}

@@ -1,0 +1,26 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "learning for your future",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start:prod": "NODE_ENV=production nodemon server.js"
+  },
+  "author": "Huiquan Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.19",
+    "morgan": "^1.10.0",
+    "ms": "^2.1.2",
+    "multer": "^1.4.2",
+    "validator": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}

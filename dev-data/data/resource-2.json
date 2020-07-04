@@ -1,0 +1,772 @@
+[
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584515437834",
+    "duration": 547.5,
+    "name": "21项目开发实训第4周(RestController).mp4",
+    "size": "23859171",
+    "tag": [
+      {
+        "chapterIndex": "6DF46055C7",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "D3CC749DA8"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/082B20FD.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281472675",
+    "duration": 1059.433333,
+    "name": "11项目开发实训第2周（keymap）.mp",
+    "size": "66956282",
+    "tag": [
+      {
+        "chapterIndex": "6DF46055C7",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "D3CC749DA8"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/1C04416F.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1583895424925",
+    "duration": 619.566666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "2289E752",
+    "name": "01项目开发实训第1周（课程说明）.mp4",
+    "size": "29572642",
+    "tag": [
+      {
+        "chapterIndex": "5254E5AEE9",
+        "courseId": "2E3CB520B4",
+        "lessonIndex": "62D67FF4B7"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/2704133E/2289E752.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179454678",
+    "duration": 1430.533333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "33579DCF",
+    "name": "27项目开发实训第5周(Aspect&Before).mp4",
+    "size": "63176641",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "87125023C3"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/33579DCF.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281873813",
+    "duration": 880.366666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "3ABB8703",
+    "name": "18项目开发实训第3周(总结).mp4",
+    "size": "55328840",
+    "tag": [
+      {
+        "chapterIndex": "9C12A76FAB",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "640023F4A8"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/3ABB8703.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584515505994",
+    "duration": 480.433333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "443F3DA9",
+    "name": "22项目开发实训第4周(自动化配置-1).mp4",
+    "size": "25726266",
+    "tag": [
+      {
+        "chapterIndex": "FA199E9339",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "9BCFF4BA23"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/443F3DA9.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179393320",
+    "duration": 934.033333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "4EAFC371",
+    "name": "25项目开发实训第5周(AOP项目准备-1).mp4",
+    "size": "40456860",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "29A8C24A45"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/4EAFC371.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281422630",
+    "duration": 924.336002,
+    "RS_EDITFLAG": false,
+    "RS_ID": "4FE364EA",
+    "name": "10项目开发实训第2周（Scope）.mp4",
+    "size": "44671976",
+    "tag": [
+      {
+        "chapterIndex": "6DF46055C7",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "F01A4893DE"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/4FE364EA.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1583997803235",
+    "duration": 890.733333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "5156BE31",
+    "name": "03项目开发实训第1周（项目创建）.mp4",
+    "size": "40815616",
+    "tag": [
+      {
+        "chapterIndex": "2A04E4E86D",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "B9E973189D"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/2704133E/5156BE31.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586351338359",
+    "duration": 267.778005,
+    "RS_EDITFLAG": false,
+    "RS_ID": "59F17B23",
+    "name": "33项目开发实训第6周(概述补充).mp4",
+    "size": "10993907",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "908A188426"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/59F17B23.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281714467",
+    "duration": 1605.866666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "63E0615C",
+    "name": "15项目开发实训第3周(spring基础用法).mp4",
+    "size": "97930806",
+    "tag": [
+      {
+        "chapterIndex": "9C12A76FAB",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "EBA9ED3FBF"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/63E0615C.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586351367522",
+    "duration": 1054.167,
+    "RS_EDITFLAG": false,
+    "RS_ID": "6C66FFE3",
+    "name": "34项目开发实训第6周(jdbcTemplate使用).mp4",
+    "size": "43442084",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "FC6697CA78"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/6C66FFE3.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586622877880",
+    "duration": 484.667,
+    "RS_EDITFLAG": false,
+    "RS_ID": "6E0D2F7A",
+    "name": "37项目开发实训(JPA简介).mp4",
+    "size": "25203233",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "D2F6C0ECA8"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/6E0D2F7A.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1589208424520",
+    "duration": 2176.9,
+    "RS_EDITFLAG": false,
+    "RS_ID": "76C66F20",
+    "name": "43项目开发实训(webjsp).mp4",
+    "size": "99063769",
+    "tag": [
+      {
+        "chapterIndex": "3053DB39D4",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "D8F1F379E3"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/76C66F20.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586351455720",
+    "duration": 1323.107031,
+    "RS_EDITFLAG": false,
+    "RS_ID": "7CCDBBD6",
+    "name": "36项目开发实训第6周(jdbcTemplate实例2).mp4",
+    "size": "65948997",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "C0529F45FF"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/7CCDBBD6.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584515526397",
+    "duration": 1570.566666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "80210354",
+    "name": "23项目开发实训第5周(自动化配置-2和MAVEN的坑).mp4",
+    "size": "114989067",
+    "tag": [
+      {
+        "chapterIndex": "FA199E9339",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "7E1F7E8670"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/80210354.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179367839",
+    "duration": 263.966666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "83B8DDE6",
+    "name": "24项目开发实训第5周(SpringAOP概述).mp4",
+    "size": "13372745",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "86527006AD"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/83B8DDE6.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281154602",
+    "duration": 1161.866666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "8DBF28B5",
+    "name": "05项目开发书讯第1周（Spring框架的核心逻辑）.mp4",
+    "size": "54042713",
+    "tag": [
+      {
+        "chapterIndex": "2A04E4E86D",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "78BF5F6733"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/8DBF28B5.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179417081",
+    "duration": 670.433333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "94715979",
+    "name": "26项目开发实训第5周(AOP项目准备-2).mp4",
+    "size": "30719232",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "D0AAD1D717"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/94715979.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179567349",
+    "duration": 444.15638,
+    "RS_EDITFLAG": false,
+    "RS_ID": "94D2BE90",
+    "name": "31项目开发实训第5周(自定义注释).mp4",
+    "size": "18501586",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "FD6006FA3D"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/94D2BE90.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179539238",
+    "duration": 747.5,
+    "RS_EDITFLAG": false,
+    "RS_ID": "96969DF3",
+    "name": "30项目开发实训第5周(补充).mp4",
+    "size": "33857804",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "6B9E729C80"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/96969DF3.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584279823344",
+    "duration": 1603.633333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "A1458EB4",
+    "name": "04项目开发实训第1周（耦合关系）.mp4",
+    "size": "66178373",
+    "tag": [
+      {
+        "chapterIndex": "2A04E4E86D",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "592942BAC4"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/A1458EB4.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586687928090",
+    "duration": 1212.334,
+    "RS_EDITFLAG": false,
+    "RS_ID": "ADA2F20F",
+    "name": "41项目开发实训(SpringData).mp4",
+    "size": "67609530",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "F5BEC90009"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/ADA2F20F.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179496776",
+    "duration": 698.566666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "B6ED7F31",
+    "name": "28项目开发实训第5周(AOP相关术语).mp4",
+    "size": "31526336",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "35986EB8E3"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/B6ED7F31.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281363706",
+    "duration": 910.076302,
+    "RS_EDITFLAG": false,
+    "RS_ID": "BA86B0D3",
+    "name": "09项目开发实训第2周（Qualifier）.mp4",
+    "size": "46554945",
+    "tag": [
+      {
+        "chapterIndex": "6DF46055C7",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "5880680C63"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/BA86B0D3.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586351390940",
+    "duration": 1303.9,
+    "RS_EDITFLAG": false,
+    "RS_ID": "BADBC80D",
+    "name": "35项目开发实训第6周(jdbcTemplate实例1).mp4",
+    "size": "73283041",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "DEB13DDD3F"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/BADBC80D.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281583802",
+    "duration": 900.092838,
+    "RS_EDITFLAG": false,
+    "RS_ID": "C0C42DD2",
+    "name": "12项目开发实训第2周（组件扫描）.mp4",
+    "size": "41894573",
+    "tag": [
+      {
+        "chapterIndex": "6DF46055C7",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "2DBEEB767B"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/C0C42DD2.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281827702",
+    "duration": 861.233333,
+    "RS_EDITFLAG": false,
+    "RS_ID": "C7F5C93A",
+    "name": "17项目开发实训第3周(组件扫描).mp4",
+    "size": "55179897",
+    "tag": [
+      {
+        "chapterIndex": "9C12A76FAB",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "A5F2267431"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/C7F5C93A.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281626343",
+    "duration": 1048.433658,
+    "RS_EDITFLAG": false,
+    "RS_ID": "C8E3AD21",
+    "name": "13项目开发实训第2周（日志）.mp4",
+    "size": "51767165",
+    "tag": [
+      {
+        "chapterIndex": "6DF46055C7",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "BA98D522D0"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/C8E3AD21.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1589208375620",
+    "duration": 1881.31901,
+    "RS_EDITFLAG": false,
+    "RS_ID": "CF804D75",
+    "name": "42项目开发实训(webServlet).mp4",
+    "size": "84521811",
+    "tag": [
+      {
+        "chapterIndex": "3053DB39D4",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "08D383EC57"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/CF804D75.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586622963146",
+    "duration": 1093.3,
+    "RS_EDITFLAG": false,
+    "RS_ID": "D70A3B10",
+    "name": "40项目开发实训(JPQL).mp4",
+    "size": "62595350",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "E0FD82B3FF"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/D70A3B10.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584515468613",
+    "duration": 1047.166666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "D81FAC3A",
+    "name": "20项目开发实训第4周(项目创建).mp4",
+    "size": "54657687",
+    "tag": [
+      {
+        "chapterIndex": "FA199E9339",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "F3A9703750"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/D81FAC3A.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281189879",
+    "duration": 486.7,
+    "RS_EDITFLAG": false,
+    "RS_ID": "D8F73147",
+    "name": "06项目开发书讯第1周（问题解答）.mp4",
+    "size": "21793220",
+    "tag": [
+      {
+        "chapterIndex": "2A04E4E86D",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "672EDE8AFB"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/D8F73147.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281681513",
+    "duration": 1400.233658,
+    "RS_EDITFLAG": false,
+    "RS_ID": "DE270FCA",
+    "name": "14项目开发实训第3周(生命周期).mp4",
+    "size": "69101144",
+    "tag": [
+      {
+        "chapterIndex": "9C12A76FAB",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "899D2DCEF6"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/DE270FCA.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281342050",
+    "duration": 707,
+    "RS_EDITFLAG": false,
+    "RS_ID": "DECEDE1A",
+    "name": "08项目开发实训第1周（总结）.mp4",
+    "size": "52689859",
+    "tag": [
+      {
+        "chapterIndex": "2A04E4E86D",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "F3EB7AC25C"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/DECEDE1A.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1583895403847",
+    "duration": 1341.5,
+    "RS_EDITFLAG": false,
+    "RS_ID": "DF22CD02",
+    "name": "02项目开发实训第1周（内容及概念介绍）.mp4",
+    "size": "62095797",
+    "tag": [
+      {
+        "chapterIndex": "5660236E74",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "461D2ADE1D"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/2704133E/DF22CD02.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586351321040",
+    "duration": 600.388021,
+    "RS_EDITFLAG": false,
+    "RS_ID": "E1012D96",
+    "name": "32项目开发实训第6周(Spring与数据库交互).mp4",
+    "size": "27140308",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "439C8BB7FC"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/E1012D96.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586622926121",
+    "duration": 811.834,
+    "RS_EDITFLAG": false,
+    "RS_ID": "E4C11857",
+    "name": "39项目开发实训(JPA增删改).mp4",
+    "size": "44605401",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "B934032DF9"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/E4C11857.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586179513721",
+    "duration": 938.366666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "E95F861E",
+    "name": "29项目开发实训第5周(增强类型).mp4",
+    "size": "45216910",
+    "tag": [
+      {
+        "chapterIndex": "8800B3EDA1",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "9F2275C6DA"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/E95F861E.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281218028",
+    "duration": 678.177343,
+    "RS_EDITFLAG": false,
+    "RS_ID": "F114B7A3",
+    "name": "07项目开发实训第1周（启动过程中创建Bean和绑定依赖）.mp4",
+    "size": "54606983",
+    "tag": [
+      {
+        "chapterIndex": "2A04E4E86D",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "E3372AADBC"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/F114B7A3.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1586622899520",
+    "duration": 934.134,
+    "RS_EDITFLAG": false,
+    "RS_ID": "F1C2A078",
+    "name": "38项目开发实训(EntityManager).mp4",
+    "size": "45691121",
+    "tag": [
+      {
+        "chapterIndex": "1417111597",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "41B2903366"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/F1C2A078.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584450552512",
+    "duration": 961.734,
+    "RS_EDITFLAG": false,
+    "RS_ID": "FA908C2E",
+    "name": "19项目开发实训第4周(SpringBoot).mp4",
+    "size": "48482003",
+    "tag": [
+      {
+        "chapterIndex": "FA199E9339",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "5F3A821C63"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/FA908C2E.mp4"
+  },
+  {
+    "authorId": "F778D68E",
+    "createTime": "1584281797793",
+    "duration": 1339.866666,
+    "RS_EDITFLAG": false,
+    "RS_ID": "FC8F1582",
+    "name": "16项目开发实训第3周(XML配置).mp4",
+    "size": "74409384",
+    "tag": [
+      {
+        "chapterIndex": "9C12A76FAB",
+        "courseId": "6C2638CA5F",
+        "lessonIndex": "36FB153D7B"
+      }
+    ],
+    "type": "video/mp4",
+    "url": "https://rs-learning-resources.s3.cn-northwest-1.amazonaws.com.cn/teaching/resources/F778D68E/FC8F1582.mp4"
+  }
+]
