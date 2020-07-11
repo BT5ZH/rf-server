@@ -1,6 +1,6 @@
 const express = require('express');
 const morgan = require('morgan');
-const compression = require('compression');
+// const compression = require('compression');
 
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controller/errorController');
@@ -20,7 +20,7 @@ if (process.env.NODE_ENV === 'development') {
 }
 app.use(morgan('dev'));
 app.use(express.json());
-app.use(compression());
+// app.use(compression());
 
 app.use((req, res, next) => {
   console.log('中间件一号');
